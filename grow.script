@@ -1,0 +1,5 @@
+//https://bitburner.readthedocs.io/en/latest/basicgameplay/scripts.html
+
+while (true) {
+	grow(getHostname());
+}
